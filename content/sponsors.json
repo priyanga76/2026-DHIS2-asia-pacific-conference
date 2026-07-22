@@ -1,0 +1,24 @@
+{
+  "tiers": [
+    {
+      "id": "hosts",
+      "name": "Hosts",
+      "sponsors": [
+        { "slug": "hisp-asia", "name": "HISP Asia", "logo": "/images/sponsors/hisp-asia.png", "url": "https://hispasia.org/", "blurb": "The regional partnership of HISP groups in Asia and the Pacific, and host of the Asia-Pacific Conference." },
+        { "slug": "hisp-uio", "name": "HISP Centre, University of Oslo", "logo": "/images/sponsors/hisp-centre-uio.png", "url": "https://www.uio.no/english/services/it/adm-services/hisp/", "blurb": "The global home of DHIS2, coordinating the worldwide HISP network from the University of Oslo." }
+      ]
+    },
+    {
+      "id": "partners",
+      "name": "Partners",
+      "sponsors": [
+        { "slug": "hisp-sri-lanka", "name": "HISP Sri Lanka", "logo": "/images/sponsors/hisp-sri-lanka.png", "url": "https://hispsrilanka.org/", "blurb": "Host-country partner for the 2026 conference in Colombo." },
+        { "slug": "hisp-india", "name": "HISP India", "logo": "/images/sponsors/hisp-india.png", "url": "https://hispindia.org/", "blurb": null },
+        { "slug": "hisp-vietnam", "name": "HISP Vietnam", "logo": "/images/sponsors/hisp-vietnam.png", "url": "https://hispvietnam.org/", "blurb": null },
+        { "slug": "hisp-indonesia", "name": "HISP Indonesia", "logo": "/images/sponsors/hisp-indonesia.svg", "url": "https://hispindonesia.org/", "blurb": null },
+        { "slug": "hisp-bangladesh", "name": "HISP Bangladesh", "logo": "/images/sponsors/hisp-bangladesh.png", "url": "https://hispbangladesh.org/", "blurb": null },
+        { "slug": "hisp-mena", "name": "HISP MENA", "logo": "/images/sponsors/hisp-mena.png", "url": "https://hispmena.org/", "blurb": null }
+      ]
+    }
+  ]
+}

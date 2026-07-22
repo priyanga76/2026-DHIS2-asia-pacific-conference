@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Galle Face Hotel",
+    "isVenue": true,
+    "distance": "On site — the conference takes place here",
+    "rating": "4.5/5 on Tripadvisor",
+    "rate": "US$150–220 per night",
+    "character": "Historic oceanfront landmark, opened 1864",
+    "mapUrl": "https://www.google.com/maps/search/Galle+Face+Hotel+Colombo"
+  },
+  {
+    "name": "Taj Samudra",
+    "isVenue": false,
+    "distance": "About 800 m — a 10-minute walk along Galle Face Green",
+    "rating": "4.6/5 on Tripadvisor",
+    "rate": "US$130–190 per night",
+    "character": "Five-star with large gardens facing the Green; hosted the 2023 conference",
+    "mapUrl": "https://www.google.com/maps/search/Taj+Samudra+Colombo"
+  },
+  {
+    "name": "Cinnamon Grand Colombo",
+    "isVenue": false,
+    "distance": "About 1.2 km — a 15-minute walk or short tuk-tuk ride",
+    "rating": "4.8/5 on Tripadvisor",
+    "rate": "US$120–180 per night",
+    "character": "Large five-star with many dining options",
+    "mapUrl": "https://www.google.com/maps/search/Cinnamon+Grand+Colombo"
+  },
+  {
+    "name": "ITC Ratnadipa, a Luxury Collection Hotel",
+    "isVenue": false,
+    "distance": "About 600 m — an 8–10-minute walk",
+    "rating": "4.8/5 on Tripadvisor",
+    "rate": "US$150–210 per night",
+    "character": "Contemporary five-star with private balconies and sky-bridge infinity pools",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ITC%20Ratnadipa%2C%20Colombo"
+  },
+  {
+    "name": "Cinnamon Life at City of Dreams",
+    "isVenue": false,
+    "distance": "About 700 m — around a 10-minute walk",
+    "rating": "4.8/5 on Tripadvisor",
+    "rate": "US$130–190 per night",
+    "character": "New five-star resort with ocean and city views, extensive dining, and an infinity pool",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Cinnamon%20Life%20at%20City%20of%20Dreams%2C%20Colombo"
+  },
+  {
+    "name": "Shangri-La Colombo",
+    "isVenue": false,
+    "distance": "About 1 km — a 12–15-minute walk along Galle Face Green",
+    "rating": "4.7/5 on Tripadvisor",
+    "rate": "US$160–220 per night",
+    "character": "Five-star oceanfront hotel with seven restaurants and bars and direct access to One Galle Face Mall",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Shangri-La%20Colombo"
+  }
+]

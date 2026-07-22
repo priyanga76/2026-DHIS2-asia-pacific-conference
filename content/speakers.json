@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "pamod-amarakoon",
+    "name": "Pamod Amarakoon",
+    "role": "Chief Executive Officer",
+    "organisation": "HISP Sri Lanka",
+    "country": "Sri Lanka",
+    "photo": "/images/speakers/pamod-amarakoon.png",
+    "featured": true,
+    "bio": "Pamod leads HISP Sri Lanka, the host-country HISP group for the 2026 conference. A medical doctor and health informatician, he has supported DHIS2 implementations across national health programmes in Sri Lanka and the wider region, and teaches and researches in digital health."
+  },
+  {
+    "slug": "john-lewis",
+    "name": "John Lewis",
+    "role": "Director",
+    "organisation": "HISP Vietnam",
+    "country": "Vietnam",
+    "photo": "/images/speakers/john-lewis.png",
+    "featured": true,
+    "bio": "John directs HISP Vietnam, a regional DHIS2 hub supporting ministries of health and partners across Southeast Asia. He has spent more than a decade helping countries design, scale, and sustain national health information systems on DHIS2."
+  },
+  {
+    "slug": "saurabh-leekha",
+    "name": "Saurabh Leekha",
+    "role": "Chief Executive Officer",
+    "organisation": "HISP India",
+    "country": "India",
+    "photo": "/images/speakers/saurabh-leekha.png",
+    "featured": true,
+    "bio": "Saurabh leads HISP India, one of the longest-standing HISP groups, supporting large-scale DHIS2 deployments for national and state health programmes in India and beyond, with a focus on data quality, capacity building, and sustainable system ownership."
+  },
+  {
+    "slug": "hannan-khan",
+    "name": "Muhammad Abdul Hannan Khan",
+    "role": "Chief Executive Officer",
+    "organisation": "HISP Bangladesh",
+    "country": "Bangladesh",
+    "photo": "/images/speakers/hannan-khan.png",
+    "featured": true,
+    "bio": "Hannan heads HISP Bangladesh, which supports one of the world's largest national DHIS2 implementations. His work spans routine health information systems, emergency response data systems, and regional capacity building."
+  },
+  {
+    "slug": "taufiq-sitompul",
+    "name": "Taufiq Sitompul",
+    "role": "Team Leader",
+    "organisation": "HISP Indonesia",
+    "country": "Indonesia",
+    "photo": "/images/speakers/taufiq-sitompul.png",
+    "featured": true,
+    "bio": "Taufiq leads HISP Indonesia, host of the 2025 conference in Bali. He works with the Ministry of Health and partners on DHIS2 for disease surveillance, immunisation, and integrated health data systems across the Indonesian archipelago."
+  },
+  {
+    "slug": "shurajit-dutta",
+    "name": "Shurajit Dutta",
+    "role": "Coordinator",
+    "organisation": "HISP Asia Hub",
+    "country": "Regional",
+    "photo": "/images/speakers/shurajit-dutta.png",
+    "featured": true,
+    "bio": "Shurajit coordinates the HISP Asia Hub, the regional partnership of HISP groups that hosts the Asia-Pacific Conference together with the HISP Centre at the University of Oslo. He works on regional collaboration, implementation support, and the annual conference programme."
+  },
+  {
+    "slug": "mohammad-baniode",
+    "name": "Mohammad Baniode",
+    "role": "Head",
+    "organisation": "HISP MENA",
+    "country": "Regional",
+    "photo": null,
+    "featured": true,
+    "bio": "Mohammad leads HISP MENA, supporting DHIS2 implementations across the Middle East and North Africa, and collaborates closely with the Asia-Pacific HISP network on cross-regional learning, emergency response systems, and platform innovation."
+  }
+]

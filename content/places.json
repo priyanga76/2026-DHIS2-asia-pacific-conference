@@ -1,0 +1,226 @@
+[
+  {
+    "slug": "galle-face-green",
+    "name": "Galle Face Green",
+    "region": "colombo",
+    "area": "Steps from the venue",
+    "description": "Step outside the conference hotel for an oceanfront walk, sunset skies, kite-flying, and Colombo street-food favourites along the promenade.",
+    "featured": false,
+    "image": {
+      "src": "/images/travel/galle-face-green.jpg",
+      "alt": "Crowds along Galle Face Green's oceanfront promenade with Galle Face Hotel and Colombo's skyline beyond",
+      "credit": "Thilina Alagiyawanna",
+      "sourceUrl": "https://www.pexels.com/photo/crowd-of-tourists-on-the-seaside-promenade-in-colombo-20711999/",
+      "license": "Pexels License",
+      "licenseUrl": "https://www.pexels.com/license/"
+    }
+  },
+  {
+    "slug": "red-mosque-pettah",
+    "name": "Red Mosque & Pettah",
+    "region": "colombo",
+    "area": "Pettah, Colombo",
+    "description": "See the landmark red-and-white façade of Jami Ul-Alfar Mosque, then explore Pettah’s lively market streets. Dress respectfully and check visitor and prayer times.",
+    "featured": true,
+    "image": {
+      "src": "/images/travel/red-mosque-pettah.jpg",
+      "alt": "Red-and-white striped façade and minarets of Jami Ul-Alfar Mosque in Pettah",
+      "credit": "A.Savin, Wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SL_Colombo_asv2020-01_img22_Jami_Ul-Alfar_Mosque.jpg",
+      "license": "FAL",
+      "licenseUrl": "https://artlibre.org/licence/lal/en/"
+    }
+  },
+  {
+    "slug": "independence-square",
+    "name": "Independence Square",
+    "region": "colombo",
+    "area": "Cinnamon Gardens, Colombo",
+    "description": "Walk the shaded grounds around Independence Memorial Hall, then continue through Cinnamon Gardens and Colombo’s nearby museum district.",
+    "featured": true,
+    "image": {
+      "src": "/images/travel/independence-square.jpg",
+      "alt": "Independence Memorial Hall and its stone columns in Colombo",
+      "credit": "Charaka Ranasinghe",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Independence_Commemoration_Hall.jpg",
+      "license": "Pexels License",
+      "licenseUrl": "https://www.pexels.com/license/"
+    }
+  },
+  {
+    "slug": "colombo-lotus-tower",
+    "name": "Colombo Lotus Tower views",
+    "region": "colombo",
+    "area": "Beira Lake, Colombo",
+    "description": "Take in a broad view across the capital from Colombo’s observation tower. Check current opening hours and ticket arrangements before setting out.",
+    "featured": true,
+    "image": {
+      "src": "/images/travel/lotus-tower-view.jpg",
+      "alt": "Wide view of Colombo's skyline from the Lotus Tower",
+      "credit": "Thilina Alagiyawanna",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_Colombo%27s_skyline_from_the_Lotus_Tower.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  {
+    "slug": "gangaramaya-seema-malaka",
+    "name": "Gangaramaya & Seema Malaka",
+    "region": "colombo",
+    "area": "Beira Lake, Colombo",
+    "description": "Discover Buddhist art at Gangaramaya Temple and pause at lakeside Seema Malaka. Dress modestly and remove shoes in shrine areas.",
+    "featured": false,
+    "image": {
+      "src": "/images/travel/gangaramaya-seema-malaka.jpg",
+      "alt": "Golden Buddhist shrine at Seema Malaka beside Beira Lake in Colombo",
+      "credit": "Lkzombie",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_Landmark_in_Colombo,_Sri_Lanka_Buddhist-Temple.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "slug": "mount-lavinia-beach",
+    "name": "Mount Lavinia Beach",
+    "region": "colombo",
+    "area": "South of Colombo",
+    "description": "Head south of central Colombo for a relaxed beach walk and an Indian Ocean sunset. Check local sea conditions before swimming.",
+    "featured": false,
+    "image": {
+      "src": "/images/travel/mount-lavinia-beach.jpg",
+      "alt": "Wide sandy shoreline and ocean at Mount Lavinia Beach",
+      "credit": "Rilwan19760430",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Lavinia_Beach.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "slug": "sigiriya",
+    "name": "Sigiriya",
+    "region": "island",
+    "area": "Cultural Triangle",
+    "description": "Climb the ancient rock citadel above forest and water gardens. Start early, bring water, and wear shoes suited to steep steps.",
+    "featured": true,
+    "image": {
+      "src": "/images/travel/sigiriya.jpg",
+      "alt": "Sigiriya rock fortress rising above the surrounding forest",
+      "credit": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sigiriya.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "slug": "kandy",
+    "name": "Kandy",
+    "region": "island",
+    "area": "Central Province",
+    "description": "Explore the hill capital, walk beside Kandy Lake, and visit the Temple of the Sacred Tooth Relic. Dress modestly and check visitor hours.",
+    "featured": false,
+    "image": {
+      "src": "/images/travel/kandy.jpg",
+      "alt": "Kandy Lake with the Temple of the Sacred Tooth Relic beyond the water",
+      "credit": "Dan Arndt",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kandy_Lake_-_Temple_of_the_Tooth.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "slug": "tea-country",
+    "name": "Hill country",
+    "region": "island",
+    "area": "Central highlands",
+    "description": "Slow down among cool green slopes, tea estates, and highland towns. The journey is part of the experience, so plan at least an overnight stay.",
+    "featured": false,
+    "image": {
+      "src": "/images/travel/tea-country.jpg",
+      "alt": "Green tea plantations covering hillsides in the Sri Lankan highlands",
+      "credit": "dronepicr",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tee_Ernte_Ceyclon_Sri_Lanka_(30039808356).jpg",
+      "license": "Pexels License",
+      "licenseUrl": "https://www.pexels.com/license/"
+    }
+  },
+  {
+    "slug": "ella-nine-arch-bridge",
+    "name": "Ella & Nine Arch Bridge",
+    "region": "island",
+    "area": "Uva highlands",
+    "description": "Pair hill-country viewpoints and walking trails with a visit to Nine Arch Bridge. Use marked paths and view the railway only from safe areas.",
+    "featured": false,
+    "image": {
+      "src": "/images/travel/ella-nine-arch-bridge.jpg",
+      "alt": "Train crossing the stone arches of Nine Arch Bridge near Ella",
+      "credit": "Dilshan255",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nine_Arch_Bridge_in_Ella.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "slug": "galle-fort",
+    "name": "Galle Fort",
+    "region": "island",
+    "area": "South coast",
+    "description": "Wander historic ramparts, quiet lanes, courtyards, and lighthouse views where the old town meets the Indian Ocean.",
+    "featured": false,
+    "image": {
+      "src": "/images/travel/galle-fort.jpg",
+      "alt": "Aerial view of the ramparts, buildings, and coast at Galle Fort",
+      "credit": "Rovin Shanila",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galle_Fort.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "slug": "dambulla-cave-temple",
+    "name": "Dambulla Cave Temple",
+    "region": "island",
+    "area": "Cultural Triangle",
+    "description": "Explore a hillside cave-temple complex filled with murals and Buddha images. Dress modestly and be prepared to remove your shoes.",
+    "featured": false,
+    "image": {
+      "src": "/images/travel/dambulla-cave-temple.jpg",
+      "alt": "Buddha statues and painted walls inside Dambulla Cave Temple",
+      "credit": "Philip Nalangan",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dambulla_Cave_1.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "slug": "mirissa",
+    "name": "Mirissa & the south coast",
+    "region": "island",
+    "area": "Southern Province",
+    "description": "Unwind on palm-fringed beaches and small bays. Plan any sea excursion with a reputable operator and only when weather conditions allow.",
+    "featured": false,
+    "image": {
+      "src": "/images/travel/mirissa.jpg",
+      "alt": "Palm-fringed sandy bay with turquoise water at Mirissa",
+      "credit": "Praveenshashika",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Secret_beach_-_Mirissa_Sri_Lanka.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "slug": "yala-national-park",
+    "name": "Yala National Park",
+    "region": "island",
+    "area": "South-east Sri Lanka",
+    "description": "Join a responsible guided safari through varied coastal and forest landscapes. Wildlife sightings are never guaranteed, so enjoy the whole habitat.",
+    "featured": false,
+    "image": {
+      "src": "/images/travel/yala-national-park.jpg",
+      "alt": "A mother elephant and calf in Yala National Park",
+      "credit": "Manelka Jayasundara",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephants_in_the_Yala_National_Park.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  }
+]

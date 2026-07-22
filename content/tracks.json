@@ -1,0 +1,13 @@
+[
+  { "id": "plenary", "name": "Plenary", "short": "Plenary", "blurb": "Opening, closing, and community-wide sessions in the main hall." },
+  { "id": "climate", "name": "Climate", "short": "Climate", "blurb": "Climate-informed systems, data integration, and regional approaches to climate resilience." },
+  { "id": "emr", "name": "DHIS2 for Primary Health Care", "short": "DHIS2 PHC", "blurb": "Using DHIS2 as an electronic medical record to support integrated, person-centred primary health care." },
+  { "id": "nutrition-chw", "name": "Nutrition + CHW Tracker", "short": "Nutrition + CHW", "blurb": "Nutrition programmes and community health worker workflows powered by DHIS2 Tracker." },
+  { "id": "emis", "name": "Education Management Information Systems (EMIS)", "short": "EMIS", "blurb": "Applying DHIS2 to education data, school management, planning, and decision-making." },
+  { "id": "dpg", "name": "Digital Public Goods (DPG)", "short": "DPG", "blurb": "Collaboration, governance, and sustainable implementation of open digital public goods." },
+  { "id": "platform", "name": "What's New in DHIS2", "short": "What's New", "blurb": "The latest DHIS2 releases, platform capabilities, roadmap, and core team demonstrations." },
+  { "id": "quality", "name": "Data Quality", "short": "Data Quality", "blurb": "Practical tools and approaches for improving data quality and strengthening data use." },
+  { "id": "country", "name": "Country Presentations", "short": "Country Presentations", "blurb": "Implementation experiences, achievements, and lessons shared by country teams across the region." },
+  { "id": "integration", "name": "Integration – Digital Blueprint", "short": "Integration", "blurb": "Interoperability, standards, and integration architectures guided by a shared digital blueprint." },
+  { "id": "analytics-ai", "name": "Innovations in Analytics, Performance and AI + DHIS2", "short": "Analytics + AI", "blurb": "New ways to combine analytics, performance monitoring, and artificial intelligence with DHIS2." }
+]

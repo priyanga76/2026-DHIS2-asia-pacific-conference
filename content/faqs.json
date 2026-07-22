@@ -1,0 +1,50 @@
+[
+  {
+    "id": "registration-open",
+    "category": "Registration",
+    "question": "Is participant registration open?",
+    "answer": "Yes. Complete the participant registration form on the Registration page. The published registration fees are confirmed. After reviewing your form, the organising team will email the payment details."
+  },
+  {
+    "id": "who-should-attend",
+    "category": "Registration",
+    "question": "Who should attend the conference?",
+    "answer": "Anyone working with or around DHIS2 in the region: policy makers, HIS managers, and digital health leaders from government; implementers, M&E officers, NGO staff, system administrators, analysts, and developers; and researchers, innovators, and members of the DHIS2 core and regional teams."
+  },
+  {
+    "id": "how-to-register",
+    "category": "Registration",
+    "question": "How do I register and pay?",
+    "answer": "Complete the participant registration form on the Registration page. The organising team reviews your registration and emails the payment details. After completing payment, email your payment receipt to contact@hispasia.org. Once the payment is verified, the organising team will send your official invitation letter. The early-bird fee applies to payments completed by 31 August 2026."
+  },
+  {
+    "id": "visa",
+    "category": "Travel",
+    "question": "Do I need a visa for Sri Lanka?",
+    "answer": "Most visitors need an Electronic Travel Authorization (ETA) obtained through the official portal at eta.gov.lk before travel. Requirements vary by nationality, so check the portal early and apply well in advance of your trip."
+  },
+  {
+    "id": "invitation-letter",
+    "category": "Travel",
+    "question": "Can I get an invitation letter for my visa application?",
+    "answer": "Yes. Complete the participant registration form and wait for the organising team to email the payment details. After paying, email your payment receipt to contact@hispasia.org. Once the payment is verified, the organising team will send your official invitation letter."
+  },
+  {
+    "id": "hotels",
+    "category": "Travel",
+    "question": "Where should I stay?",
+    "answer": "The conference takes place at the Galle Face Hotel, so staying on site or within walking distance along Galle Face Green keeps you steps from the sessions. See the Hotels page for recommended options and indicative rates; any negotiated delegate rates will be published there."
+  },
+  {
+    "id": "streaming",
+    "category": "Programme",
+    "question": "Will sessions be livestreamed or recorded?",
+    "answer": "Selected plenary sessions are expected to be streamed, and recordings of key sessions are typically published on the DHIS2 YouTube channel after the event. Streaming links and the recordings archive will be published on this website."
+  },
+  {
+    "id": "cancellation",
+    "category": "Registration",
+    "question": "What is the cancellation policy?",
+    "answer": "Written cancellations received before 21 September 2026 are refunded minus an administrative fee. After that date fees are non-refundable, but a registration may be transferred to a colleague from the same organisation. Contact the organisers for details."
+  }
+]

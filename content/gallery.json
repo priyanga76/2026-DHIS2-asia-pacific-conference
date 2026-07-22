@@ -1,0 +1,119 @@
+{
+  "note": "A curated archive from the 2023 conference in Colombo and the 2024 conference in Da Nang. High-resolution originals of the new Colombo photographs remain in the project Photos folder.",
+  "photos": [
+    {
+      "src": "/images/gallery/colombo-2023/cultural-performance.jpg",
+      "thumbnailSrc": "/images/gallery/colombo-2023/thumbs/cultural-performance.jpg",
+      "alt": "Five Sri Lankan dancers performing on the Asia-Pacific Conference stage in Colombo",
+      "caption": "Sri Lankan cultural performance — Colombo 2023",
+      "year": "2023",
+      "wide": true
+    },
+    {
+      "src": "/images/gallery/colombo-2023/plenary-audience.jpg",
+      "thumbnailSrc": "/images/gallery/colombo-2023/thumbs/plenary-audience.jpg",
+      "alt": "Conference participants from across the region seated together during a plenary session",
+      "caption": "The regional community in a plenary session — Colombo 2023",
+      "year": "2023",
+      "wide": false
+    },
+    {
+      "src": "/images/gallery/colombo-2023/delegate-arrivals.jpg",
+      "thumbnailSrc": "/images/gallery/colombo-2023/thumbs/delegate-arrivals.jpg",
+      "alt": "Delegates choosing their conference badges at the arrival desk in Colombo",
+      "caption": "Delegates collect their conference badges — Colombo 2023",
+      "year": "2023",
+      "wide": false
+    },
+    {
+      "src": "/images/gallery/colombo-2023/opening-ceremony.jpg",
+      "thumbnailSrc": "/images/gallery/colombo-2023/thumbs/opening-ceremony.jpg",
+      "alt": "A delegate lighting a traditional brass oil lamp while conference attendees look on",
+      "caption": "Traditional oil-lamp lighting at the opening — Colombo 2023",
+      "year": "2023",
+      "wide": false
+    },
+    {
+      "src": "/images/gallery/colombo-2023/registration.jpg",
+      "thumbnailSrc": "/images/gallery/colombo-2023/thumbs/registration.jpg",
+      "alt": "Delegates and event staff gathered around the conference registration desk",
+      "caption": "Delegates arrive from across Asia and the Pacific — Colombo 2023",
+      "year": "2023",
+      "wide": false
+    },
+    {
+      "src": "/images/gallery/colombo-2023/regional-reach.jpg",
+      "thumbnailSrc": "/images/gallery/colombo-2023/thumbs/regional-reach.jpg",
+      "alt": "A speaker beside a presentation showing flags and the countries represented at the conference",
+      "caption": "Countries represented across the regional community — Colombo 2023",
+      "year": "2023",
+      "wide": true
+    },
+    {
+      "src": "/images/gallery/colombo-2023/conference-hall.jpg",
+      "thumbnailSrc": "/images/gallery/colombo-2023/thumbs/conference-hall.jpg",
+      "alt": "Wide view of a full conference ballroom facing the Asia-Pacific Conference 2023 stage",
+      "caption": "A full house for the opening plenary — Colombo 2023",
+      "year": "2023",
+      "wide": true
+    },
+    {
+      "src": "/images/gallery/colombo-2023/plenary-speaker.jpg",
+      "thumbnailSrc": "/images/gallery/colombo-2023/thumbs/plenary-speaker.jpg",
+      "alt": "A speaker at the DHIS2 lectern addressing the plenary audience in Colombo",
+      "caption": "Knowledge sharing from the main stage — Colombo 2023",
+      "year": "2023",
+      "wide": false
+    },
+    {
+      "src": "/images/gallery/colombo-2023/hisp-community.jpg",
+      "thumbnailSrc": "/images/gallery/colombo-2023/thumbs/hisp-community.jpg",
+      "alt": "Six members of the regional HISP community posing together at the conference",
+      "caption": "Members of the regional HISP community — Colombo 2023",
+      "year": "2023",
+      "wide": false
+    },
+    {
+      "src": "/images/gallery/conf-past-1.jpg",
+      "alt": "Large group photo of conference delegates on a lawn in Colombo",
+      "caption": "The regional community at the 2023 conference — Colombo, Sri Lanka",
+      "year": "2023",
+      "wide": true
+    },
+    {
+      "src": "/images/gallery/conf-past-2.jpg",
+      "alt": "Delegates gathered in front of a Celebrating 30 Years of HISP banner at the 2024 conference",
+      "caption": "Celebrating 30 years of HISP — Asia-Pacific Conference 2024, Da Nang",
+      "year": "2024",
+      "wide": true
+    },
+    {
+      "src": "/images/gallery/conf-2024-1.jpg",
+      "alt": "Speakers on stage between HISP Asia and HISP network banners at the 2024 conference",
+      "caption": "HISP network session on stage — Asia-Pacific Conference 2024",
+      "year": "2024",
+      "wide": true
+    },
+    {
+      "src": "/images/gallery/conf-2024-2.jpg",
+      "alt": "A presenter sharing a timeline of dengue expansion in Nepal at the 2024 conference",
+      "caption": "Country experience on the main stage — Da Nang 2024",
+      "year": "2024",
+      "wide": false
+    },
+    {
+      "src": "/images/gallery/conf-2024-3.jpg",
+      "alt": "A presenter discussing people, process, and technology during a parallel session",
+      "caption": "Learning from regional best practice — Da Nang 2024",
+      "year": "2024",
+      "wide": false
+    },
+    {
+      "src": "/images/gallery/conf-2024-4.jpg",
+      "alt": "A presenter demonstrating a health dashboard on the conference stage",
+      "caption": "DHIS2 dashboards in action — Da Nang 2024",
+      "year": "2024",
+      "wide": false
+    }
+  ]
+}

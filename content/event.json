@@ -1,0 +1,130 @@
+{
+  "slug": "dhis2-asia-pacific-conference-2026",
+  "title": "DHIS2 Asia-Pacific Conference 2026",
+  "shortTitle": "Asia-Pacific Conference 2026",
+  "brandLine": "DHIS2 Asia-Pacific",
+  "tagline": "Connecting communities, advancing innovation",
+  "description": "The DHIS2 Asia-Pacific Conference brings the regional DHIS2 community together to share experiences, learn about the latest developments and innovations, and build partnerships. It is the regional counterpart to the DHIS2 Annual Conference in Oslo.",
+  "edition": 5,
+  "status": "upcoming",
+  "format": "In person",
+  "formatNote": "Selected sessions streamed",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-07",
+  "dateLabel": "5–7 October 2026",
+  "dateLabelLong": "Monday 5 – Wednesday 7 October 2026",
+  "timezone": "Asia/Colombo",
+  "timezoneLabel": "Sri Lanka Standard Time (UTC+5:30)",
+  "city": "Colombo",
+  "country": "Sri Lanka",
+  "venue": {
+    "name": "Galle Face Hotel",
+    "status": "confirmed",
+    "address": "2 Galle Road, Colombo 3 (Kollupitiya), Sri Lanka",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Galle%20Face%20Hotel%2C%202%20Galle%20Road%2C%20Colombo%203%2C%20Sri%20Lanka",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?origin=mfe&pb=!1m2!2m1!1sGalle+Face+Hotel,+2+Galle+Road,+Colombo+3,+Sri+Lanka",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Galle%20Face%20Hotel%2C%202%20Galle%20Road%2C%20Colombo%203%2C%20Sri%20Lanka",
+    "blurb": "Colombo's historic oceanfront landmark on Galle Face Green, steps from the Indian Ocean.",
+    "images": [
+      {
+        "src": "/images/venue/galle-face-hotel-facade.jpg",
+        "alt": "Front facade of Galle Face Hotel beneath a vivid blue sky",
+        "caption": "Oceanfront facade",
+        "objectPosition": "center 60%"
+      },
+      {
+        "src": "/images/venue/galle-face-hotel-ocean-garden.jpg",
+        "alt": "Galle Face Hotel's oceanfront lawn and terrace lined with palm trees",
+        "caption": "Ocean garden and terrace",
+        "objectPosition": "center"
+      },
+      {
+        "src": "/images/venue/galle-face-hotel-evening.jpg",
+        "alt": "Galle Face Hotel illuminated at dusk with the Indian Ocean behind it",
+        "caption": "The hotel at dusk",
+        "objectPosition": "center"
+      },
+      {
+        "src": "/images/venue/galle-face-hotel-elevated-view.jpg",
+        "alt": "Elevated view of Galle Face Hotel beside the Indian Ocean and Galle Face Green",
+        "caption": "Between the green and the ocean",
+        "fit": "contain"
+      },
+      {
+        "src": "/images/venue/galle-face-hotel-dusk.jpg",
+        "alt": "Galle Face Hotel glowing at dusk beside the Colombo coast",
+        "caption": "A Colombo landmark after dark",
+        "objectPosition": "center"
+      },
+      {
+        "src": "/images/venue/galle-face-hotel-terrace.jpg",
+        "alt": "Palm-lined ocean terrace at Galle Face Hotel",
+        "caption": "Palm-lined ocean terrace",
+        "fit": "contain"
+      }
+    ]
+  },
+  "organisers": [
+    { "name": "HISP Asia", "url": "https://hispasia.org/" },
+    { "name": "HISP Centre, University of Oslo", "url": "https://www.uio.no/english/services/it/adm-services/hisp/" }
+  ],
+  "registration": {
+    "status": "open",
+    "statusLabel": "Participant registration open",
+    "note": "Participant registration is open. Complete the form below; the organising team will then email payment details. After paying, email your receipt to the organisers, who will send your official invitation letter once payment is verified.",
+    "provisional": false,
+    "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScwYiMe1cU5Vx-ZW98xxyLVBwGtmeUFWmakohvmx4iTGMLxNQ/viewform?usp=send_form",
+    "formEmbedUrl": "https://docs.google.com/forms/d/e/1FAIpQLScwYiMe1cU5Vx-ZW98xxyLVBwGtmeUFWmakohvmx4iTGMLxNQ/viewform?embedded=true&hl=en",
+    "earlyBirdDeadline": "2026-08-31",
+    "earlyBirdDeadlineLabel": "31 August 2026",
+    "cancellationDeadlineLabel": "21 September 2026",
+    "feeTiers": [
+      {
+        "id": "early-bird",
+        "name": "Early bird",
+        "price": 450,
+        "currency": "USD",
+        "deadlineLabel": "Register and pay by 31 August 2026",
+        "featured": true,
+        "includes": [
+          "Access to all conference sessions and workshops",
+          "All conference materials",
+          "Daily buffet lunch",
+          "Coffee, tea, and snack breaks throughout"
+        ]
+      },
+      {
+        "id": "standard",
+        "name": "Standard",
+        "price": 500,
+        "currency": "USD",
+        "deadlineLabel": "After 31 August 2026",
+        "featured": false,
+        "includes": [
+          "Access to all conference sessions and workshops",
+          "All conference materials",
+          "Daily buffet lunch",
+          "Coffee, tea, and snack breaks throughout"
+        ]
+      }
+    ]
+  },
+  "contactEmail": "contact@hispasia.org",
+  "siteUrl": "https://2026.apac.dhis2.org",
+  "links": {
+    "dhis2": "https://dhis2.org/",
+    "dhis2Event": "https://dhis2.org/events/asia-pacific-conference-2026/",
+    "community": "https://community.dhis2.org/",
+    "hispAsia": "https://hispasia.org/",
+    "youtube": "https://www.youtube.com/@dhis2",
+    "recordings2024": "https://www.youtube.com/playlist?list=PLo6Seh-066RzH1OR5W0uo_CK3QUWfhSC5",
+    "previousAcademies": "https://dhis2.org/academy/previous/"
+  },
+  "pastEditions": [
+    { "year": 2022, "city": "Phu Quoc", "country": "Vietnam", "note": "First regional conference, 7–9 December 2022" },
+    { "year": 2023, "city": "Colombo", "country": "Sri Lanka", "note": "Hotel Taj Samudra, on the same oceanfront green" },
+    { "year": 2024, "city": "Da Nang", "country": "Vietnam", "note": "Celebrated 30 years of HISP, 1–3 October 2024" },
+    { "year": 2025, "city": "Bali", "country": "Indonesia", "note": "Discovery Kartika Plaza Hotel, 15–17 October 2025" }
+  ],
+  "lastUpdated": "2026-07-16"
+}
