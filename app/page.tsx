@@ -77,7 +77,7 @@ function Hero() {
           <p className="mt-5 max-w-xl text-lg text-brand-100 sm:text-xl">
             <span className="block">{event.tagline}.</span>
             <span className="mt-1 block">
-              Three days of experience sharing and partnership building for the DHIS2 community across the Asia Pacific
+              Three days of experience sharing and, partnership building for the DHIS2 community across the Asia Pacific
               region and beyond.
             </span>
           </p>
