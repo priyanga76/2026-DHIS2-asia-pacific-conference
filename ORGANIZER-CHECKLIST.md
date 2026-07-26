@@ -12,7 +12,7 @@ guesses** and must be confirmed before the site goes public.
 - [ ] ⚠️ Venue **contract confirmation** for the Galle Face Hotel (site presents it as confirmed) + which ballrooms/rooms will be used (room names appear in the programme)
 - [ ] Official **2026 theme/tagline**, if there is one (site reuses "Connecting communities, advancing innovation")
 - [ ] Official **website domain** (site is built against the placeholder `2026.apac.dhis2.org` — needed for canonical URLs, sitemap, social sharing)
-- [ ] ⚠️ Official **contact email** for attendee enquiries (site uses `contact@hispasia.org`)
+- [ ] ⚠️ Official **contact email** for attendee enquiries (site uses `events@hispsrilanka.org`)
 - [ ] 2026 **event logo / key visual / branding**, if one exists (site currently uses a neutral DHIS2-style mark), plus any brand-colour requirements
 - [ ] Expected number of participants / countries (nice for the About section)
 - [ ] ⚠️ Registration desk opening time each day (site says 08:15, carried from a draft)

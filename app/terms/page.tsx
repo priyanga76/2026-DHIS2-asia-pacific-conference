@@ -19,7 +19,7 @@ const SECTIONS: { title: string; body: string[] }[] = [
   {
     title: 'Payment',
     body: [
-      'After reviewing a registration, the organising team emails the payment details. The participant must complete payment and email the payment receipt to contact@hispasia.org. The official invitation letter is issued after the receipt has been received and the payment verified. Bank charges and transfer fees are the responsibility of the registrant. Registration fees cover conference participation as described on the registration page; they do not include travel, accommodation, insurance, or visa costs.',
+      'After reviewing a registration, the organising team emails the payment details. The participant must complete payment and email the payment receipt to events@hispsrilanka.org. The official invitation letter is issued after the receipt has been received and the payment verified. Bank charges and transfer fees are the responsibility of the registrant. Registration fees cover conference participation as described on the registration page; they do not include travel, accommodation, insurance, or visa costs.',
     ],
   },
   {
