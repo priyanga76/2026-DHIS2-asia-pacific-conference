@@ -17,6 +17,7 @@
         { "slug": "hisp-vietnam", "name": "HISP Vietnam", "logo": "/images/sponsors/hisp-vietnam.png", "url": "https://hispvietnam.org/", "blurb": null },
         { "slug": "hisp-indonesia", "name": "HISP Indonesia", "logo": "/images/sponsors/hisp-indonesia.svg", "url": "https://hispindonesia.org/", "blurb": null },
         { "slug": "hisp-bangladesh", "name": "HISP Bangladesh", "logo": "/images/sponsors/hisp-bangladesh.png", "url": "https://hispbangladesh.org/", "blurb": null },
+        { "slug": "hisp-pakistan", "name": "HISP Pakistan", "logo": "/images/sponsors/hisp-pakistan-logo.png", "url": "https://hisp.org.pk/", "blurb": null },
         { "slug": "hisp-mena", "name": "HISP MENA", "logo": "/images/sponsors/hisp-mena.png", "url": "https://hispmena.org/", "blurb": null }
       ]
     }
