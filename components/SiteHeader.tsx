@@ -34,6 +34,9 @@ export default function SiteHeader() {
     setOpen(false);
   }, [pathname]);
 
+const HISP_ASIA_STRIP_COLORS = ["#ea0d2e", "#8d153a", "#eb7400", "#ffbe29", "#00746c", "#3eafe3", "#1e3765"];
+
+
   return (
     <header
       className={cn(
@@ -41,6 +44,7 @@ export default function SiteHeader() {
         scrolled && 'shadow-card',
       )}
     >
+      
       <div className="container-site flex min-h-16 items-center gap-3">
         <Link
           href="/"
@@ -119,6 +123,12 @@ export default function SiteHeader() {
           Register now
         </Link>
       </div>
+      {/*} <div className="flex h-[3px] w-full" aria-hidden="true">
+        {HISP_ASIA_STRIP_COLORS.map((color) => (
+          <span key={color} className="h-full flex-1" style={{ backgroundColor: color }} />
+        ))}
+      </div>  */}
+
     </header>
   );
 }
