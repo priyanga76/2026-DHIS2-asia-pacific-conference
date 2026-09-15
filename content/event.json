@@ -85,7 +85,7 @@
         "price": 450,
         "currency": "USD",
         "deadlineLabel": "Register and pay by 31 August 2026",
-        "featured": true,
+        "featured": false,
         "includes": [
           "Access to all conference sessions and workshops",
           "All conference materials",
@@ -99,7 +99,7 @@
         "price": 500,
         "currency": "USD",
         "deadlineLabel": "After 31 August 2026",
-        "featured": false,
+        "featured": true,
         "includes": [
           "Access to all conference sessions and workshops",
           "All conference materials",

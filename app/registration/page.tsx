@@ -56,7 +56,7 @@ export default function RegistrationPage() {
                   tier.featured ? 'border-brand-600 shadow-lift' : 'border-line shadow-card'
                 }`}
               >
-                {tier.featured && <span className="chip-ok absolute right-6 top-6">Best value</span>}
+                {tier.featured && <span className="chip-ok absolute right-6 top-6">Available</span>}
                 <span className="text-[0.8rem] font-bold uppercase tracking-[0.12em] text-brand-700">
                   {tier.name}
                   {registration.provisional && ' · provisional'}
